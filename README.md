@@ -27,8 +27,7 @@
 - 📊 Maintaining a **CGPA of 9.43/10**.
 - 💻 Interested in **Software Development, Artificial Intelligence, Generative AI, and Backend Engineering**.
 - 🤖 Experienced in building applications using **FastAPI, Retrieval-Augmented Generation (RAG), LLMs, and vector databases**.
-- 🧠 Passionate about solving real-world problems through software engineering and AI.
-- 🌱 Currently strengthening my knowledge of **Data Structures and Algorithms, System Design, and AI Engineering**.
+- 🧠 Passionate about **Data Structures and Algorithms, problem-solving, and writing efficient code**.
 - 🚀 Enjoy building practical applications that combine backend development with AI-powered capabilities.
 
 ---
@@ -165,23 +164,19 @@ A machine learning-based stock analysis and prediction application that combines
 
 ## 📊 GitHub Statistics
 
-
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Abhi150405&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-
-
 ## 🎯 Current Focus
 
-- Strengthening Data Structures and Algorithms.
-- Deepening knowledge of backend engineering and API development.
-- Exploring Generative AI, RAG pipelines, and AI agents.
-- Learning system design and scalable application architecture.
-- Building practical projects that solve real-world problems.
+- ☁️ Learning AWS and cloud infrastructure.
+- ⚛️ Exploring React and modern frontend development.
+- 🏗️ Improving system design and scalable application architecture.
+- 🤖 Exploring advanced AI engineering and agentic AI.
+- 🚀 Building production-ready applications integrating AI and backend technologies.
 
 ---
 
